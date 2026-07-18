@@ -1,6 +1,6 @@
 /
 
-```C++
+```Angular&#x20;Template
 // return_statement.cpp
 #include <stdlib.h>
 struct S 
