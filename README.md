@@ -1,14 +1,10 @@
-![](https://badgen.net/badge/CyC/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph\&color=4ab8a1)
+![1.00](https://badgen.net/badge/CyC/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph\&color=4ab8a1)
 
 |            算法            |             操作系统             |          网络          |        面向对象        |                数据库                 |           Java           |         系统设计         |           工具           |               编码实践               |         后记         |
 | :----------------------: | :--------------------------: | :------------------: | :----------------: | :--------------------------------: | :----------------------: | :------------------: | :--------------------: | :------------------------------: | :----------------: |
 | [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy\_disk:](#floppy_disk-数据库) | [:coffee:](#coffee-java) | [:bulb:](#bulb-系统设计) | [:wrench:](#wrench-工具) | [:watermelon:](#watermelon-编码实践) | [:memo:](#memo-后记) |
 
-<br />
-
-![](https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/LogoMakr_0zpEzN.png)
-
-<br />
+![1.00](https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/LogoMakr_0zpEzN.png)
 
 ## :pencil2: 算法
 
@@ -118,4 +114,5 @@ Logo：[logomakr](https://logomakr.com/)
 
 感谢以下人员对本仓库做出的贡献，当然不仅仅只有这些贡献者，这里就不一一列举了。如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。
 
-![](https://avatars3.githubusercontent.com/u/21679154?s=400\&v=4)
+![1.00](https://avatars3.githubusercontent.com/u/21679154?s=400\&v=4)
+
