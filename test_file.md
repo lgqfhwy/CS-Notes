@@ -1,6 +1,6 @@
 /
 
-```
+```C++
 // return_statement.cpp
 #include <stdlib.h>
 struct S 
