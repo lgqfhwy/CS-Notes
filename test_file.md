@@ -251,3 +251,12 @@ Claude Code 在多个平台上运行：终端、IDE 扩展、桌面应用和网�
 * [故障排除](/docs/zh-CN/troubleshooting)：常见问题的解决方案
 * [code.claude.com](https://code.claude.com/)：演示、定价和产品详情
 
+
+
+- first
+- second
+- second
+
+
+
+
