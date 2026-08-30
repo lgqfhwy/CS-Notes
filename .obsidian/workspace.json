@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/4. 二维数组中的查找.md",
+                "file": "notes/10.2 矩形覆盖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 二维数组中的查找"
+              "title": "10.2 矩形覆盖"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/4. 二维数组中的查找.md",
+                "file": "notes/10.2 矩形覆盖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,13 @@
   },
   "active": "c9dfe14e10744124",
   "lastOpenFiles": [
+    "notes/10.1 斐波那契数列.md",
+    "notes/9. 用两个栈实现队列.md",
+    "notes/8. 二叉树的下一个结点.md",
+    "notes/7. 重建二叉树.md",
+    "notes/6. 从尾到头打印链表.md",
+    "notes/5. 替换空格.md",
+    "notes/4. 二维数组中的查找.md",
     "notes/3. 数组中重复的数字.md",
     "test_file.md"
   ]
