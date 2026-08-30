@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/10.2 矩形覆盖.md",
+                "file": "notes/4. 二维数组中的查找.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.2 矩形覆盖"
+              "title": "4. 二维数组中的查找"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "c9dfe14e10744124",
   "lastOpenFiles": [
+    "notes/10.2 矩形覆盖.md",
     "notes/10.1 斐波那契数列.md",
     "notes/9. 用两个栈实现队列.md",
     "notes/8. 二叉树的下一个结点.md",
