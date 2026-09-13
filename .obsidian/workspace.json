@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -76,7 +76,17 @@
                 "searchQuery": ""
               },
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "928f654e9997b75b",
+            "type": "leaf",
+            "state": {
+              "type": "gitjot-changes",
+              "state": {},
+              "icon": "git-compare-arrows",
+              "title": "GitJot Changes"
             }
           }
         ]
@@ -99,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/10.2 矩形覆盖.md",
+                "file": "notes/4. 二维数组中的查找.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,7 +148,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -152,7 +162,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
@@ -167,10 +177,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,17 +190,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "c9dfe14e10744124",
+  "active": "32b509295425064b",
   "lastOpenFiles": [
+    "notes/4. 二维数组中的查找.md",
+    "Untitled.md",
     "notes/10.2 矩形覆盖.md",
     "notes/10.1 斐波那契数列.md",
     "notes/9. 用两个栈实现队列.md",
@@ -197,7 +210,6 @@
     "notes/7. 重建二叉树.md",
     "notes/6. 从尾到头打印链表.md",
     "notes/5. 替换空格.md",
-    "notes/4. 二维数组中的查找.md",
     "notes/3. 数组中重复的数字.md",
     "test_file.md"
   ]
