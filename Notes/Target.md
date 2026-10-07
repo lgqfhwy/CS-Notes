@@ -4,4 +4,4 @@ Return to [[Welcome]]. #acceptance
 
 ## Destination
 
-Remote acceptance edit.
+Remote acceptance edit two.
