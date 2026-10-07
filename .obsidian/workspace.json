@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Target.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/文件树验收 v2.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Target"
+              "title": "文件树验收 v2"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "5be76ea6940501e9",
@@ -176,11 +176,12 @@
   },
   "active": "61b088fe3e9a2858",
   "lastOpenFiles": [
+    "Notes/UI 验收/未命名.md",
     "Notes/文件树验收 v2.md",
+    "Samples/viewer.pdf",
     "Notes/Target.md",
     "Notes/Index acceptance/Acceptance canvas.canvas",
     "Notes/Index acceptance/Acceptance base.base",
-    "Samples/viewer.pdf",
     "Samples/image.svg",
     "Samples/page.html",
     "Samples/data.json",
