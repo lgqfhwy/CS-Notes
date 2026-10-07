@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d098b2ff8b0a79da",
+        "id": "4b261aaf2035a2ef",
         "type": "tabs",
         "children": [
           {
-            "id": "1dd9b88755c54932",
+            "id": "61b088fe3e9a2858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Target.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "真实笔记测试",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Welcome.md",
+                "file": "Notes/Index acceptance/Daily check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Welcome.md",
+                "file": "Notes/Index acceptance/Daily check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +155,8 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,10 +174,19 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1dd9b88755c54932",
+  "active": "61b088fe3e9a2858",
   "lastOpenFiles": [
-    "Notes/Index acceptance/Daily check.md",
+    "Notes/Index acceptance/Outline limits.md",
     "Notes/Welcome.md",
+    "Samples/viewer.pdf",
+    "Notes/Index acceptance/Daily check.md",
+    "Notes/Index acceptance/Acceptance base.base",
+    "Notes/Index acceptance/Acceptance canvas.canvas",
+    "Notes/Target.md",
+    "Samples/data.json",
+    "Samples/page.html",
+    "Samples/image.svg",
+    "Samples/Copy review.md",
     "Notes/Index acceptance"
   ]
 }

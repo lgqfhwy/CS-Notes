@@ -1,7 +1,6 @@
 ---
-tags:
-  - index-check
-status: verified
+tags: [index-check]
+status: testing
 ---
 # Daily check
 
@@ -13,10 +12,9 @@ status: verified
 
 - [x] Verify persistence
 
-| Item  | Value |
-| ----- | ----- |
-| Saved | 43    |
-|       |       |
+| Item | Value |
+| --- | --- |
+| Saved | 42 |
 
 ```js
 const value = 42;
@@ -25,9 +23,3 @@ const value = 42;
 ## Last heading
 
 End of note.
-
-## Updated after save
-
-Incremental index works.
-
-**Format sample**
